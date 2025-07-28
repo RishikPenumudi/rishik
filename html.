@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> HEADER TAGS DEMO</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+ 
+<body bgcolor="grey" text="black">
+    <h1>kl university</h1>
+    <hr>
+    <h2>kl university</h2>
+    <h3>kl university</h3>
+    <h4>kl university</h4>
+    <h5>kl university</h5>
+    <h6>kl university</h6>
+    
+</body>
+</html>
